@@ -35,3 +35,7 @@
     height: auto;
     width: auto;
 }
+
+.logo {
+  text-shadow: #FC0 1px 0 10px;
+}
