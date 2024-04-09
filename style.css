@@ -51,3 +51,9 @@
   border: 3px;
   text-decoration-color: blanchedalmond;
 }
+
+.warenkorb {
+  border-radius: 6px;
+  background-color: #cec0c0;
+  padding: 5px 10px;
+}
