@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "mobileapp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mobileapp",
+		"liveServer.settings.port": 5501
+	}
+}
